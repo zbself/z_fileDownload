@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="com.zb.as3.zlib.filedownload.zFilesDownload"/>
+    <classEntry path="com.zb.as3.zlib.filedownload.core.zFileDownloadMode"/>
+    <classEntry path="com.zb.as3.zlib.filedownload.core.zFileDownloadItem"/>
+    <classEntry path="com.zb.as3.zlib.filedownload.util.URLDecode"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
